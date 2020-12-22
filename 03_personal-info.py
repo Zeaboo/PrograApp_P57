@@ -1,0 +1,8 @@
+nombre = input("Ingrese su nombre: ")
+apellido = input("Ingrese su apellido: ")
+locacion = input("Confirme su locacion: ")
+edad = input("Ingrese su edad: ")
+print()
+print("BIENVENIDO")
+print()
+print("Hola ", nombre, apellido, "usted se encuentra en", locacion, "además usted tiene", edad, "años")
